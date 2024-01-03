@@ -1,5 +1,5 @@
 import random
-from mmcv.utils import is_str
+from mmengine.utils import is_str
 
 DOTA_CLASS_NAMES = ['__background__', 'harbor', 'ship', 'small-vehicle', 'large-vehicle', 'storage-tank', 'plane', 'soccer-ball-field', 'bridge', 'baseball-diamond', 'tennis-court', 'helicopter', 'roundabout', 'swimming-pool', 'ground-track-field', 'basketball-court']
 
