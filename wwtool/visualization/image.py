@@ -4,7 +4,7 @@ import numpy as np
 from matplotlib import pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
 
-from mmcv.utils import is_str, mkdir_or_exist
+from mmengine.utils import is_str, mkdir_or_exist
 from .color import color_val
 from wwtool.transforms import thetaobb2pointobb, impad, hobb2pointobb
 
